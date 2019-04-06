@@ -1379,40 +1379,6 @@ body {
 .cid-rmSC4rkBbb .btn {
   margin: 0 0 .5rem 0;
 }
-.cid-rmSAxWar0H {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rmSAxWar0H .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rmSB9cntyr {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rmSB9cntyr .mbr-text {
-  color: #767676;
-}
-.cid-rmSB9cntyr h4 {
-  text-align: center;
-}
-.cid-rmSB9cntyr p {
-  text-align: center;
-}
-.cid-rmSB9cntyr .card-img span {
-  font-size: 96px;
-  color: #149dcc;
-}
-.cid-rmSDURfaEE {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #000000, #f20404);
-}
-.cid-rmSDURfaEE .btn {
-  margin: 0 0 .5rem 0;
-}
 .cid-rmSD2p32St {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1448,6 +1414,79 @@ body {
   background: linear-gradient(45deg, #000000, #f20404);
 }
 .cid-rmSIWZzrd9 .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rmSAxWar0H {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rmSAxWar0H .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rmSB9cntyr {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rmSB9cntyr .mbr-text {
+  color: #767676;
+}
+.cid-rmSB9cntyr h4 {
+  text-align: center;
+}
+.cid-rmSB9cntyr p {
+  text-align: center;
+}
+.cid-rmSB9cntyr .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-rmSDURfaEE {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #000000, #f20404);
+}
+.cid-rmSDURfaEE .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rmSPKtdLUY {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #f20404;
+}
+.cid-rmSPKtdLUY .form-control,
+.cid-rmSPKtdLUY .form-control:focus {
+  background: #ffffff;
+  border: 1px solid #f20404;
+}
+.cid-rmSPKtdLUY .form-container {
+  transition: all .2s;
+  border: 1px solid #f20404;
+  padding: 1rem;
+}
+.cid-rmSPKtdLUY textarea.form-control {
+  min-height: 188px;
+}
+.cid-rmSPKtdLUY .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rmSPKtdLUY .row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 768px) {
+  .cid-rmSPKtdLUY .row .content-container {
+    padding-left: 5rem;
+  }
+}
+.cid-rmSSZv2RAe {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #000000, #f20404);
+}
+.cid-rmSSZv2RAe .btn {
   margin: 0 0 .5rem 0;
 }
 .cid-rmSHUXANkZ {
